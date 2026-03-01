@@ -24,7 +24,7 @@ The goal of this project is to predict laptop prices based on various features l
 - XGBoost Regressor
 
 ## 📊 Best Model Accuracy
-R2 Score: (Write your score here)
+R2 Score: (0.9995510173393443)
 
 ## 🚀 How to Run
 1. Install required libraries
